@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm building [Coder One](https://www.gocoder.one), an open simulation playground where anyone can get hands-on experience with machine learning on real-world challenges.
+
+We're currently running an AI competition called [Bomberland](https://www.gocoder.one/bomberland), inspired by the classic console game Bomberman.
+
+Learn more about us:  
+[🔗 Website](https://www.gocoder.one)  
+[📱 Twitter](https://www.twitter.com/CoderOneHQ)  
+[💬 Discord](https://discord.gg/NkfgvRN)
