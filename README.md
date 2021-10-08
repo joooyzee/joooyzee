@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 I'm building [Coder One](https://www.gocoder.one), an open simulation playground where anyone can get hands-on experience with machine learning on real-world challenges.
 
-We're currently running an AI competition called [Bomberland](https://www.gocoder.one/bomberland), inspired by the classic console game Bomberman.
+We're currently running an AI competition called [Bomberland](https://www.gocoder.one/bomberland), inspired by the classic console game Bomberman. Train intelligent agents and compete against other participants across the globe to win prizes and get featured on our [Twitch stream](https://www.twitch.tv/CoderOneHQ).
 
-Learn more about us:  
-[🔗 Website](https://www.gocoder.one)  
+**Join our community on...**  
 [📱 Twitter](https://www.twitter.com/CoderOneHQ)  
 [💬 Discord](https://discord.gg/NkfgvRN)
